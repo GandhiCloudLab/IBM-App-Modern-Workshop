@@ -9,6 +9,8 @@ In this Workshop, we will do the Labs for the following offerings from IBM.
 
 ## 1. EASeJ Lab
 
+<details><summary>Click me</summary>
+
 ### 1.1 Download Setup and Demo Guides
 
 1. Goto the techzone url https://techzone.ibm.com/collection/enterprise-application-service-for-java/journey-technical-demo-assets
@@ -60,7 +62,11 @@ In this Workshop, we will do the Labs for the following offerings from IBM.
     5. Deploy the new version of the app
     6. View the EASeJ Dashboard summarizing the builds and releases 
 
-## 2. MoRE
+</details>
+
+## 2. MoRE Lab
+
+<details><summary>Click me</summary>
 
 ### 2.1 Download Setup and Demo Guides
 
@@ -128,7 +134,20 @@ In this Workshop, we will do the Labs for the following offerings from IBM.
     19.	View the messages.log for libertyServer1
     20.	View the messages.log for libertyServer2
 
-## Appendix
+</details>
+
+## 3. AMA Lab
+
+<details><summary>Click me</summary>
+    - TODO
+</details>
+
+## 4. WCA Lab
+
+<details><summary>Click me</summary>
+    - TODO
+</details>
+
 
 
 
