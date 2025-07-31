@@ -2,7 +2,7 @@
 
 Here are the steps to be done in this lab. 
 
-## 1 Download Setup and Demo Guides
+## 1. Download Setup and Demo Guides
 
 1. Goto the techzone url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
 
@@ -10,7 +10,7 @@ Here are the steps to be done in this lab.
 
 3. Download the `Demo Guide` from the tile `MoRE 1.0.0.0.1 demo guide`
 
-## 2 Reserve Techzone Instance
+## 2. Reserve Techzone Instance
 
 1. Reserve the MoRE Demo instance in the Techzone by using the url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments
 
@@ -25,7 +25,7 @@ Here are the steps to be done in this lab.
     3. Tips for working in the Demo environment
     4. Start the WebSphere environment 
 
-## 3 Setup Demo Environment
+## 3. Setup Demo Environment
 
 1. Execute all the steps mentioned in the downloaded `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx`
 
@@ -39,7 +39,7 @@ Here are the steps to be done in this lab.
     2. Tips for working in the Demo environment
     3. Start the WebSphere environment 
 
-## 4 Run the Demo
+## 4. Run the Demo
 
 1. Execute all the steps mentioned in the downloaded `Demo Guide` document `Demo Guide - MoRE 2Q25 v2.docx`
 

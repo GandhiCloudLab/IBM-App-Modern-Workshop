@@ -1,8 +1,8 @@
-## 1. EASeJ (IBM Enterprise Application Service for Java) Lab
+# EASeJ (IBM Enterprise Application Service for Java) Lab
 
 Here are the steps to be done in this lab. 
 
-## 1 Download Setup and Demo Guides
+## 1. Download Setup and Demo Guides
 
 1. Goto the techzone url https://techzone.ibm.com/collection/enterprise-application-service-for-java/journey-technical-demo-assets
 
@@ -10,7 +10,7 @@ Here are the steps to be done in this lab.
 
 3. Download the `Demo Guide` from the tile `EASeJ Demo guide`
 
-## 2 Reserve Techzone Instance
+## 2. Reserve Techzone Instance
 
 1. Reserve the EASeJ Demo instance in the Techzone by using the url https://techzone.ibm.com/collection/enterprise-application-service-for-java/environments
 
@@ -24,7 +24,7 @@ Here are the steps to be done in this lab.
     2. Join the IBM Cloud Account
 
 
-## 3 Setup Demo Environment
+## 3. Setup Demo Environment
 
 1. Execute all the steps mentioned in the downloaded `Setup Guide` document `Setup Guide - EASeJ Demo Environment v1.docx`
 
@@ -38,7 +38,7 @@ Here are the steps to be done in this lab.
     2. Access and setup your public GitHub ORG and REPOs that you will use for the demo
     3. Configure GitHub repos for your Enterprise Application Service instance
 
-## 4 Run the Demo
+## 4. Run the Demo
 
 1. Execute all the steps mentioned in the downloaded `Demo Guide` document `EASEJ Demo Guide-v1.docx`
 
