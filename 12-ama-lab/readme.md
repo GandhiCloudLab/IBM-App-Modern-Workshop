@@ -1,12 +1,12 @@
 # AMA  (Application Modernization Accelerator) Lab
 
-For this, lets us reuse most of things from the MoRE lab.
+For this, lab let us reuse most of the things from the MoRE lab.
 
 ## 1. Download Setup and Demo Guides
 
-1. Already you might have downloaded the More Setup Guide and Demo Guide from the techzone url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
+1. Already you might have downloaded the `More Setup Guide` and `Demo Guide` from the techzone url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
 
-If not, just Download the `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
+    If not, just Download the `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
 
 ## 2. Reserve Techzone Instance
 
@@ -41,19 +41,19 @@ If not, just Download the `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo env
 
 1. Change to the directory where AMA is installed
 
-```
- cd ~/application-modernization-accelerator-local-4.3.0/
- scripts/startLocal.sh 
-```
+    ```
+    cd ~/application-modernization-accelerator-local-4.3.0/
+    scripts/startLocal.sh 
+    ```
 
 3. Wait until AMA has started successfully, and the URL is displayed.
 
-```
-Configuring Application Modernization Accelerator .........................................................
-Status
-------------------------------------------------------------------------------------------------------
-Application Modernization Accelerator 4.3.0 is available for use at the following URL> https://rhel9-base.gym.lan:3001
-```
+    ```
+    Configuring Application Modernization Accelerator .........................................................
+    Status
+    ------------------------------------------------------------------------------------------------------
+    Application Modernization Accelerator 4.3.0 is available for use at the following URL> https://rhel9-base.gym.lan:3001
+    ```
 
 3. Open the URL `https://rhel9-base.gym.lan:3001` inside the remote desktop browser.
 
@@ -62,14 +62,15 @@ Application Modernization Accelerator 4.3.0 is available for use at the followin
 
 To run the AMA Demo, the steps are given in the TechZone URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources as a tile `AMA - AMA Dev Tools - MoRE End to end lab`
 
-1. You can start the Demo from this step from here.  https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-run-the-ama-data-collector-to-scan-the-environment
+1. You can start the Demo from this step **3. In AMA, click on Create workspace and enter as name MoRE_Demo, then click on Create.**
+ from here.  https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-run-the-ama-data-collector-to-scan-the-environment
 
-2. You can stop the demo from this step 
-https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-use-the-ama-dev-tools-to-apply-automated-fixes
+2. You can stop the demo from this step  **The migration plan will be downloaded and stored in the Downloads folder.**
+    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-use-the-ama-dev-tools-to-apply-automated-fixes
 
-or at this step.
+    or at this step **--- This concludes the AMA part of the lab. ---**.
 
-https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-set-up-the-managed-liberty-cluster-and-deploy-the-modernized-whereami-application
+    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-set-up-the-managed-liberty-cluster-and-deploy-the-modernized-whereami-application
 
 
 ## 5. Note
