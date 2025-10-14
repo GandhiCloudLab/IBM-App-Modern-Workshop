@@ -62,15 +62,15 @@ For this, lab let us reuse most of the things from the MoRE lab.
 
 To run the AMA Demo, the steps are given in the TechZone URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources as a tile `AMA - AMA Dev Tools - MoRE End to end lab`
 
-1. You can start the Demo from this step **3. In AMA, click on Create workspace and enter as name MoRE_Demo, then click on Create.**
- from here.  https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-run-the-ama-data-collector-to-scan-the-environment
+1. You can start the Demo from this step [3. In AMA, click on Create workspace and enter as name MoRE_Demo, then click on Create
+ from here.]( https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-run-the-ama-data-collector-to-scan-the-environment)
 
-2. You can stop the demo from this step  **The migration plan will be downloaded and stored in the Downloads folder.**
-    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-use-the-ama-dev-tools-to-apply-automated-fixes
+2. You can stop the demo from this step  [The migration plan will be downloaded and stored in the Downloads folder..](
+    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-use-the-ama-dev-tools-to-apply-automated-fixes)
 
-    or at this step **--- This concludes the AMA part of the lab. ---**.
-
-    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-set-up-the-managed-liberty-cluster-and-deploy-the-modernized-whereami-application
+    or at this step 
+    [--- This concludes the AMA part of the lab. ---](
+    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-set-up-the-managed-liberty-cluster-and-deploy-the-modernized-whereami-application)
 
 
 ## 5. Note
