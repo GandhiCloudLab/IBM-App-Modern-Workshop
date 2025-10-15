@@ -4,7 +4,7 @@ For this, lab let us reuse most of the things from the MoRE lab.
 
 ## 1. Download Setup and Demo Guides
 
-**Note :** Skip this section, if you have already completed the this section in MoRE Lab.
+**Note :** Skip this section, if you have already completed this section in MoRE Lab.
 
 1. Already you might have downloaded the `More Setup Guide` and `Demo Guide` from the techzone URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
 
@@ -12,7 +12,7 @@ For this, lab let us reuse most of the things from the MoRE lab.
 
 ## 2. Reserve Techzone Instance
 
-**Note :** Skip this section, if you have already completed the this section in MoRE Lab.
+**Note :** Skip this section, if you have already completed this section in MoRE Lab.
 
 1. If you have not reserved the MoRE demo instance, reserve the MoRE Demo instance in the Techzone by using the URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments
 
@@ -29,7 +29,7 @@ For this, lab let us reuse most of the things from the MoRE lab.
 
 ## 3. Setup Demo Environment
 
-**Note :** Skip this section, if you have already completed the this section in MoRE Lab.
+**Note :** Skip this section, if you have already completed this section in MoRE Lab.
 
 1. Execute all the steps mentioned in the downloaded `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx`
 
