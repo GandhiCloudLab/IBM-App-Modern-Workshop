@@ -1,51 +1,32 @@
 # AMA  (Application Modernization Accelerator) Lab
 
-For this, lab let us reuse most of the things from the MoRE lab.
+Here are the steps to be done in this lab. 
 
 ## 1. Download Setup and Demo Guides
 
-**Note :** Skip this section, if you have already completed this section in MoRE Lab.
+1. Goto the techzone url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
 
-1. Already you might have downloaded the `More Setup Guide` and `Demo Guide` from the techzone URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources
+2. Download the `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
 
-    If not, just Download the `Setup Guide` doc from the tile `MoRE 1.0.0.1 demo environment reservations and setup guide`
+<img src="images/image5.png">
+
+3. Download the `Demo Guide` from the url https://ibm.ent.box.com/s/rleoom7y672hiusrj73e43nbuzbdhn5a. 
+
+    The downloaded file name would be `AMA demo guide v1.1.docx`.
 
 ## 2. Reserve Techzone Instance
 
-**Note :** Skip this section, if you have already completed this section in MoRE Lab.
+1. You can skip this section, if you have already created a Techzone Instance as part of previous MoRE lab.
 
-1. If you have not reserved the MoRE demo instance, reserve the MoRE Demo instance in the Techzone by using the URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments
+2. Reserve the MoRE demo instance in the Techzone using the URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments. Refer to the `Setup Guide` document titled `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step
 
-    Note: You can use the `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step.
+<img src="images/image4.png">
 
-    #### Steps
+## 3. Start AMA in the demo environment 
 
-    Here are the steps involved in this section.
+1. Log into the Remote System using the `NoVNC` method described in the  `Setup Guide` doc from the title `MoRE 1.0.0.1 demo environment reservations and setup guide`
 
-    1. Reserve demo environment in Techzone
-    2. Access demo environment through noVNC
-    3. Tips for working in the Demo environment
-    4. Start the WebSphere environment 
-
-## 3. Setup Demo Environment
-
-**Note :** Skip this section, if you have already completed this section in MoRE Lab.
-
-1. Execute all the steps mentioned in the downloaded `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx`
-
-    Note: you might have already completed few steps as part of the previous section (Reserve Techzone Instance)
-
-    #### Steps
-
-    Here are the steps involved in this section.
-
-    1. Access demo environment through noVNC
-    2. Tips for working in the Demo environment
-    3. Start the WebSphere environment
-
-## 4. Start AMA in the demo environment 
-
-1. Change to the directory where AMA is installed
+2. In the remote system, change to the directory where AMA is installed
 
     ```
     cd ~/application-modernization-accelerator-local-4.3.0/
@@ -64,27 +45,28 @@ For this, lab let us reuse most of the things from the MoRE lab.
 3. Open the URL `https://rhel9-base.gym.lan:3001` inside the remote desktop browser.
 
 
-## 5. Run the AMA Demo Steps
+## 4. Run the Demo
 
-To run the AMA Demo, the steps are given in the TechZone URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/resources as a tile `AMA - AMA Dev Tools - MoRE End to end lab`
+1. Execute all the steps mentioned in the downloaded `Demo Guide` document `AMA demo guide v1.1.docx`. But you can skip the first page in the document.
 
-1. You can start the Demo from this step [3. In AMA, click on Create workspace and enter as name MoRE_Demo, then click on Create
- from here.]( https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-run-the-ama-data-collector-to-scan-the-environment)
+    #### Steps
 
-2. You can stop the demo from this step  [The migration plan will be downloaded and stored in the Downloads folder..](
-    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-use-the-ama-dev-tools-to-apply-automated-fixes)
+    Here are the steps involved in this section.
 
-    or at this step 
-    [--- This concludes the AMA part of the lab. ---](
-    https://github.com/LarsBesselmann/MoRE_WhereAMI_Lab?tab=readme-ov-file#user-content-set-up-the-managed-liberty-cluster-and-deploy-the-modernized-whereami-application)
+    1. Create Workspace (steps 1 to 3)
+    2. Download discovery tool (steps 4 to 7)
+    3. Discover the results (steps 8 to 9)
+    4. View Assesment (steps 10 to 15)
+    5. View Visualization (steps 16 to 20)
+    6. View app Assesment in detail (steps 21 to 28)
+    6. View Migration Plan (steps 29 to 35)
 
-
-## 6. Note
+## 5. AMA in Local system
 
 If you have challenges in setting up the environment you can install the trail version in your local system. Here are the links.
 
 1. Installing AMA in local : https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/01-ama-local-install
 
+In case, if you are not able to bring the environment up, you can look at the below url to understand the various options available in AMA.
+
 2. AMA in detail : https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/02-ama-in-detail
-
-

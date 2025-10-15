@@ -10,9 +10,13 @@ Here are the steps to be done in this lab.
 
 3. Download the `Demo Guide` from the tile `EASeJ Demo guide`
 
+    <img src="images/image1.png">
+
 ## 2. Reserve Techzone Instance
 
 1. Reserve the EASeJ Demo instance in the Techzone by using the url https://techzone.ibm.com/collection/enterprise-application-service-for-java/environments
+
+    <img src="images/image2.png">
 
     Note: You can use the `Setup Guide` document `Setup Guide - EASeJ Demo Environment v1.docx` that you downloaded in the previous step.
 
@@ -52,3 +56,7 @@ Here are the steps to be done in this lab.
     4. Modify application source code
     5. Deploy the new version of the app
     6. View the EASeJ Dashboard summarizing the builds and releases 
+
+## 5. Note
+
+A GitHub.com account is required for this lab. You can use a public account; an Enterprise account is not necessary. Two existing repositories from IBM will be forked and used. You can modify the code directly in the GitHub UI — downloading it to your local system is not required.

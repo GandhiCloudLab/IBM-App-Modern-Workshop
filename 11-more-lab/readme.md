@@ -10,11 +10,16 @@ Here are the steps to be done in this lab.
 
 3. Download the `Demo Guide` from the tile `MoRE 1.0.0.0.1 demo guide`
 
+
+<img src="images/image3.png">
+
 ## 2. Reserve Techzone Instance
 
-1. Reserve the MoRE Demo instance in the Techzone by using the url https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments
 
-    Note: You can use the `Setup Guide` document `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step.
+1. Reserve the MoRE demo instance in the Techzone using the URL https://techzone.ibm.com/collection/mo-re--ama-demos-and-environment-2q25-release/environments. Refer to the `Setup Guide` document titled `Setup Guide - MoRE Demo Environment v4.docx` that you downloaded in the previous step
+
+
+    <img src="images/image4.png">
 
     #### Steps
 
